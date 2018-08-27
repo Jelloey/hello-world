@@ -1,5 +1,15 @@
+<<<<<< test
+<<<<<< test
+<<<<<< test 
+asdf 789
+asdf 123
+>>>>>> master 
+=======
+=======
 and now
+>>>>> >> master
 asdf 456
 what happens now
+>>>>>> master
 qwer
 zxcv
